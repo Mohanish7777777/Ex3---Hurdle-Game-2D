@@ -107,6 +107,8 @@ public class CoinManager : MonoBehaviour
 
 ![O111](https://github.com/Abrinnisha6/Ex3---Hurdle-Game-2D/assets/118889454/1e56e665-0938-4df9-8433-69f28a8d032a)
 
+![Screenshot 2024-03-21 111903](https://github.com/22008686/Ex3---Hurdle-Game-2D/assets/118916413/b2d665a4-f515-4922-bd50-632b92827048)
+
 
 ## RESULT :
 
